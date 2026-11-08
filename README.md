@@ -6,7 +6,7 @@ Instead of treating swimmers as simple points, this model investigates the impac
 
 ### Project Outline
 
-1. **Particle Shape**: Most bacteria are rod-shaped (ellipsoids) rather than spheres. Under fluid shear, elongated swimmers align with the flow, gradually moving out of vortex centers to cluster along the boundaries between neighboring vortices. Spherical particles do not aggregate—they remain uniformly spread.
+1. **Particle Shape**: Most bacteria are rod-shaped (ellipsoids) rather than spheres. Under fluid shear, elongated swimmers align with the flow, gradually moving out of vortex centers to cluster along the boundaries between neighboring vortices. Spherical particles do not aggregate, as they remain uniformly spread.
 
 2. **Vortex Trapping and Escape**: Vortices act as hydrodynamic cages. A swimmer needs a threshold speed to cross into an adjacent cell. Rod-shaped particles escape at much lower speeds than spheres because their elongation allows them to catch boundary shear and slingshot across.
 
