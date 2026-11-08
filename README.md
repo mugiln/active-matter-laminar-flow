@@ -1,6 +1,6 @@
 # Active Matter in Laminar Flow
 
-When tiny organisms like bacteria (*E. coli*) or sperm cells swim in water, they don't just drift around like dust. They consume internal energy to move forward. In nature, fluids rarely stay still—they form whirlpools (vortices) and shear currents. This project is a Python simulation studying how self-propelled particles move, get trapped, and disperse through a 2D grid of vortices.
+When tiny organisms like bacteria (*E. coli*) or sperm cells swim in water, they don't just drift around like dust. They consume internal energy to move forward. In nature, fluids rarely stay still and they form whirlpools (vortices) and shear currents. This project is a Python simulation studying how self-propelled particles move, get trapped, and disperse through a 2D grid of vortices.
 
 Instead of treating swimmers as simple points, this model investigates the impact of realistic shapes and biological behaviors.
 
